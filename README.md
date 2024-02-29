@@ -25,7 +25,7 @@ Now, as I transition into a full-time role in software engineering, I am eager t
     <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-blue.svg?logo=java&logoColor=orange"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776ab.svg?logo=python&logoColor=white"></a>
-   <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Go-mediumturquoise.svg?logo=go&logoColor=white"></a>
+    <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Go-mediumturquoise.svg?logo=go&logoColor=white"></a>
 </p>
 
 <h4>🖋️ Markup Languages:</h4>
@@ -38,8 +38,8 @@ Now, as I transition into a full-time role in software engineering, I am eager t
 
 <h4>🏛️ Frameworks and Libraries:</h4>
 <p>
-     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-     <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-f7df1e.svg?logo=Express&logoColor=%white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-f7df1e.svg?logo=Express&logoColor=%white"></a>
     <a href="#"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-e34f26.svg?logo=svelte&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
@@ -56,7 +56,7 @@ Now, as I transition into a full-time role in software engineering, I am eager t
  <h4>🧪 Testing:</h4>
  <p>
      <a href="#"><img alt="Mocha" src="https://img.shields.io/badge/Mocha-sienna.svg?logo=mocha&logoColor=white"></a>
-	   <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-20232a.svg?logo=apache&logoColor=firebrick"></a>
+     <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-20232a.svg?logo=apache&logoColor=firebrick"></a>
 
 
  </p>
@@ -66,8 +66,8 @@ Now, as I transition into a full-time role in software engineering, I am eager t
 <h4>🛠️ BaaS (Backend as a Service):</h4>
 <p>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-white.svg?logo=firebase&logoColor=gold"></a>
-   <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-black.svg?logo=supabase&logoColor=springgreen"></a>
-   <a href="#"><img alt="Pocketbase" src="https://img.shields.io/badge/Supabase-white.svg?logo=pocketbase&logoColor=black"></a>
+    <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-black.svg?logo=supabase&logoColor=springgreen"></a>
+    <a href="#"><img alt="Pocketbase" src="https://img.shields.io/badge/Pocketbase-white.svg?logo=pocketbase&logoColor=black"></a>
 </p>
 
 <h4>💻 Software:</h4>
