@@ -7,14 +7,6 @@
 <h1 align='center'><samp><strong>Hello! 👋</strong></samp></h1>
 <p align='center'>Full Stack Developer Intern @ <a href="https://mmi-direct.com/">MMI</a> <strong>|</strong> Aspiring Software Developer </p>
 
-## About me
-
-As a recent Computer Science graduate with a passion for full-stack development and system design, I am currently strengthening my skills as a Full Stack Developer Intern. My journey in software engineering has been driven by a deep-seated enthusiasm for turning ideas into reality through coding.  
-  
-I thrive on the creative process of application development, leveraging my skillset to create unique and innovative solutions. My commitment to expanding my knowledge and expertise in both front-end and back-end technologies allows me to approach projects with a comprehensive perspective, ensuring optimal functionality.  
-  
-Now, as I transition into a full-time role in software engineering, I am eager to contribute my expertise to dynamic teams and tackle new challenges in the ever-evolving tech landscape. I am committed to continuous learning and growth, fueled by my passion for transforming concepts into impactful software solutions.
-
 ## My Current Skills:
 
 <h4>💻 Programming Languages:</h4>
